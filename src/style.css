@@ -90,7 +90,7 @@ a:hover {
 .text-center {
   text-align: center !important;
 }
-.col-md-6 {
+.col-sm-6 {
   flex: 0 0 auto;
   width: 50%;
 }
